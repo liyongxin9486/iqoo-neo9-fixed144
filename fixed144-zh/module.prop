@@ -1,0 +1,6 @@
+id=iqoo_fixed144
+name=iQOO Neo9 亮屏144赫兹与息屏1赫兹
+version=1.6.1 中文版
+versionCode=8
+author=本机配置
+description=亮屏关闭LTPO并固定144赫兹；息屏释放高刷请求并启用1赫兹策略，已确认驱动报告1赫兹息屏模式。采用系统事件监听，支持自动恢复与原值回滚；不挂载系统文件。

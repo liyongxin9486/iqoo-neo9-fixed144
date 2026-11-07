@@ -1,0 +1,11 @@
+# 模块运行时生成的文件（不入库）
+*.log
+*.pid
+*.lock
+aod-status.txt
+state
+checks.count
+disable
+remove
+.DS_Store
+Thumbs.db
